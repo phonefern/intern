@@ -1,0 +1,2 @@
+visit_id,visit_spid,visit_date,visit_time,special_care_note,pregnancy,patient_age,new_patient,from_appointment,fix_gender_id,temperature_value,fever,cough,snot,sore_throat,phlegm,stomach_ache,Diarrhea,vomit,headache,itching,wound,rash,edema,ear_pain,covid_positive,fall,leg_pain,tumor,bite,tooth,tired,urine,heart,eye,crash,body,vagina,breast,blood
+1.15E+17,07REG,27/9/2015,16:00:33,ล้ม ปวดขา+มีแผล,0,70,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
